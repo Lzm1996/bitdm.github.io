@@ -24,6 +24,7 @@ permalink: /2019/projects/p02/midterm/
 ###实验环境：
 
 python3
+
 本实验所需程序包：
 numpy，matplotlib，sklearn，scipy等
 
